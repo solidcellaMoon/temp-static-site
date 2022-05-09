@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Study on 👻</title>
+    <link>/study/</link>
+    <description>Recent content in Study on 👻</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>@solidcellaMoon</copyright>
+    <lastBuildDate>Fri, 06 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/study/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>/study/test/</link>
+      <pubDate>Sun, 08 May 2022 03:48:29 +0900</pubDate>
+      
+      <guid>/study/test/</guid>
+      <description>test post</description>
+      <content>&lt;p&gt;test post&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
